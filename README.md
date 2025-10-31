@@ -2,7 +2,7 @@
 
 🚀 **Software Engineer | Flutter & IoT Expert**  
 
-I'm a **Lead Software Engineer** with **7+ years of experience** in architecting and developing applications across multiple platforms.  
+I'm a **Lead Software Engineer** with **8+ years of experience** in architecting and developing applications across multiple platforms.  
 My expertise lies in building **scalable SaaS, IoT, and BMS solutions**, with a strong focus on **Dart/Flutter**, **Cloud Infrastructure**, and **Agile team leadership**.  
 
 ---
