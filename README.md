@@ -42,7 +42,7 @@ PostgreSQL, MongoDB, Redis, Firebase, MySQL
 
 ## 🌍 Connect with Me  
 
-📫 Email: **setrealmlist1994@gmail.com**  
+📫 Email: **info@gencto.uk**  
 💬 Telegram: [gencto](https://t.me/gencto)  
 🌐 GitHub: [github.com/gencto](https://github.com/gencto)  
 🌐 WebSite: [www.gencto.uk](https://www.gencto.uk/) 
