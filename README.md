@@ -1,48 +1,42 @@
-# 👋 Hi, I'm Mykhailo Krasynskyi  
+# Mykhailo Krasynskyi
 
-🚀 **Software Engineer | Flutter & IoT Expert**  
+**Senior Full-Stack Engineer** · Flutter / Dart · React · Node.js · IoT & Mobile
 
-I'm a **Lead Software Engineer** with **8+ years of experience** in architecting and developing applications across multiple platforms.  
-My expertise lies in building **scalable SaaS, IoT, and BMS solutions**, with a strong focus on **Dart/Flutter**, **Cloud Infrastructure**, and **Agile team leadership**.  
+Constanța, Romania — EU work authorization (Romanian Temporary Protection)
 
----
-
-## 💼 Experience by Domain  
-
-- **Health Tech** – mobile apps for healthcare and fitness  
-- **Smart Buildings & IoT** – BMS, smart metering, IoT platforms  
-- **Telecom & Utilities** – IoT data pipelines, device management, communication protocols  
-- **Logistics & Retail** – warehouse management and energy/resource tracking apps  
+[Website](https://www.gencto.uk) · [LinkedIn](https://www.linkedin.com/in/gencto) · [Telegram](https://t.me/gencto) · info@gencto.uk
 
 ---
 
-## 🛠️ Tech Stack  
+### About
 
-**Languages & Frameworks**  
-Dart/Flutter, JavaScript/TypeScript, React, Next.js, Node.js, Python, C++  
+Full-Stack Engineer with 8+ years building mobile and web applications across IoT, BMS, Smart Metering, Digital Health and SaaS. Strong in the Flutter / Dart ecosystem with complementary React and Node.js for end-to-end delivery.
 
-**Cloud & DevOps**  
-Docker, Kubernetes, AWS, GCP, Terraform, Ansible  
+Less common specialization: deep industrial-protocol background (BacNet, Modbus, MQTT, NB-IoT, DLMS) from 20+ projects in Building Management and Smart Metering at SVITECO, where I built the engineering department from scratch to a team of 10.
 
-**Databases**  
-PostgreSQL, MongoDB, Redis, Firebase, MySQL  
+Currently using the Anthropic Claude API and Claude Code in production workflows for AI-assisted development.
 
----
+### Tech stack
 
-## 📚 Education  
+| Area | Stack |
+|---|---|
+| **Mobile** | Dart, Flutter, Riverpod, BLoC, Freezed, Hive |
+| **Web** | React, Next.js, TypeScript |
+| **Back-end** | Node.js (Nest.js, Express), Dart (Serverpod), Python |
+| **IoT & Protocols** | BacNet, Modbus, MQTT, NB-IoT, DLMS, Niagara 4 (Certified) |
+| **Cloud & DevOps** | Docker, Kubernetes, AWS, GitLab CI/CD |
+| **AI** | Anthropic Claude API, Google Gemini, MCP, Claude Code, Cursor |
 
-- TensorFlow 2.0: Deep Learning & AI (2024)  
-- TensorFlow Bootcamp (2024)  
-- Flutter/Dart Appbrewery (2021)  
-- Niagara 4 Technical Certification (2020)  
-- NodeJS/Express (2018)  
-- C/C++ (2014)  
+### Currently
 
----
+Mobile engineer on an enterprise workforce-management platform (US, remote) — Flutter, Riverpod, gRPC, Socket.io, Firebase, with hardware-level integrations (NFC, biometrics, geolocation).
 
-## 🌍 Connect with Me  
+### Open to
 
-📫 Email: **info@gencto.uk**  
-💬 Telegram: [gencto](https://t.me/gencto)  
-🌐 GitHub: [github.com/gencto](https://github.com/gencto)  
-🌐 WebSite: [www.gencto.uk](https://www.gencto.uk/) 
+Senior **Full-Stack** or **Mobile** roles (remote or Romania-based) in **IoT**, **Mobile**, or **AI-integrated** product teams. Product companies, startups, and consulting engagements all welcome.
+
+### Recent certifications
+
+- **Anthropic Academy** — Claude API · MCP (Intro + Advanced) · Agent Skills · Subagents · Claude Code in Action (2026)
+- **TensorFlow 2.0** — Deep Learning & AI (2024)
+- **Niagara 4** Technical Certification — Tridium (2020)
