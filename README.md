@@ -2,8 +2,6 @@
 
 **Senior Full-Stack Engineer** · Flutter / Dart · React · Node.js · IoT & Mobile
 
-Constanța, Romania — EU work authorization (Romanian Temporary Protection)
-
 [Website](https://www.gencto.uk) · [LinkedIn](https://www.linkedin.com/in/gencto) · [Telegram](https://t.me/gencto) · info@gencto.uk
 
 ---
