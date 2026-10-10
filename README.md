@@ -1,40 +1,43 @@
 # Mykhailo Krasynskyi
 
-**Senior Full-Stack Engineer** · Flutter / Dart · React · Node.js · IoT & Mobile
+**Senior Full-Stack & Systems Engineer** · Mobile (Flutter/Dart) · IoT Protocols · Web Systems
 
-[Website](https://www.gencto.uk) · [LinkedIn](https://www.linkedin.com/in/gencto) · [Telegram](https://t.me/gencto) · info@gencto.uk
+[Website](https://www.gencto.uk) · [pub.dev](https://pub.dev/publishers/gencto.uk) · [LinkedIn](https://www.linkedin.com/in/gencto) · [Email](mailto:info@gencto.uk)
 
 ---
 
-### About
+### Overview
 
-Full-Stack Engineer with 8+ years building mobile and web applications across IoT, BMS, Smart Metering, Digital Health and SaaS. Strong in the Flutter / Dart ecosystem with complementary React and Node.js for end-to-end delivery.
+Full-Stack Engineer with 8+ years of experience architecting cross-platform mobile apps, IoT platforms, and scalable web solutions. Specialized in the **Flutter/Dart ecosystem**, hardware-level integrations, and industrial communication protocols.
 
-Less common specialization: deep industrial-protocol background (BacNet, Modbus, MQTT, NB-IoT, DLMS) from 20+ projects in Building Management and Smart Metering at SVITECO, where I built the engineering department from scratch to a team of 10.
+- **IoT & Industrial background:** Built engineering workflows and protocol-level integrations (BACnet, Modbus, MQTT, DLMS, NB-IoT) across 20+ BMS and Smart Metering projects.
+- **AI-Assisted Engineering:** Actively integrating LLM capabilities (Anthropic Claude API, MCP, subagent workflows) into production dev pipelines.
 
-Currently using the Anthropic Claude API and Claude Code in production workflows for AI-assisted development.
+---
 
-### Tech stack
+### Open Source & Packages (GenCTO)
 
-| Area | Stack |
+I author and maintain Flutter/Dart packages under the [gencto.uk](https://pub.dev/publishers/gencto.uk) publisher:
+
+- **[package_name](https://pub.dev/packages/package_name)** — Short one-line description of what it solves.
+- **[another_package](https://pub.dev/packages/another_package)** — Short description.
+
+---
+
+### Tech Stack
+
+| Domain | Core Technologies |
 |---|---|
-| **Mobile** | Dart, Flutter, Riverpod, BLoC, Freezed, Hive |
-| **Web** | React, Next.js, TypeScript |
-| **Back-end** | Node.js (Nest.js, Express), Dart (Serverpod), Python |
-| **IoT & Protocols** | BacNet, Modbus, MQTT, NB-IoT, DLMS, Niagara 4 (Certified) |
-| **Cloud & DevOps** | Docker, Kubernetes, AWS, GitLab CI/CD |
-| **AI** | Anthropic Claude API, Google Gemini, MCP, Claude Code, Cursor |
+| **Mobile & Dart** | Dart, Flutter, Riverpod, BLoC, Freezed, Serverpod, Hive |
+| **Web & Back-end** | React, Next.js, Node.js (Nest.js), TypeScript, Python |
+| **IoT & Hardware** | BACnet, Modbus, MQTT, DLMS, NB-IoT, NFC, Biometrics, Niagara 4 |
+| **Cloud & DevOps** | Docker, Kubernetes, AWS, GitLab CI/CD, gRPC, WebSockets |
+| **AI Workflows** | Anthropic Claude API, Model Context Protocol (MCP), Agentic Frameworks |
 
-### Currently
+---
 
-Mobile engineer on an enterprise workforce-management platform (US, remote) — Flutter, Riverpod, gRPC, Socket.io, Firebase, with hardware-level integrations (NFC, biometrics, geolocation).
+### Recent Certifications
 
-### Open to
-
-Senior **Full-Stack** or **Mobile** roles (remote or Romania-based) in **IoT**, **Mobile**, or **AI-integrated** product teams. Product companies, startups, and consulting engagements all welcome.
-
-### Recent certifications
-
-- **Anthropic Academy** — Claude API · MCP (Intro + Advanced) · Agent Skills · Subagents · Claude Code in Action (2026)
+- **Anthropic Academy** — Claude API · MCP (Intro + Advanced) · Agent Skills & Subagents (2026)
 - **TensorFlow 2.0** — Deep Learning & AI (2024)
 - **Niagara 4** Technical Certification — Tridium (2020)
