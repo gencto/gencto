@@ -15,15 +15,6 @@ Full-Stack Engineer with 8+ years of experience architecting cross-platform mobi
 
 ---
 
-### Open Source & Packages (GenCTO)
-
-I author and maintain Flutter/Dart packages under the [gencto.uk](https://pub.dev/publishers/gencto.uk) publisher:
-
-- **[package_name](https://pub.dev/packages/package_name)** — Short one-line description of what it solves.
-- **[another_package](https://pub.dev/packages/another_package)** — Short description.
-
----
-
 ### Tech Stack
 
 | Domain | Core Technologies |
