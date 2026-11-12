@@ -19,7 +19,7 @@
 
 ### Overview
 
-Full-Stack Engineer with 8+ years of experience architecting cross-platform mobile apps, IoT platforms, and scalable web solutions. Specialized in the **Flutter/Dart ecosystem**, hardware-level integrations, and industrial communication protocols.
+Full-Stack Engineer with 8+ years of experience architecting cross-platform mobile apps, IoT platforms, and scalable web solutions. Specialized in **Rust** and the **Flutter/Dart ecosystem**, hardware-level integrations, and industrial communication protocols.
 
 - **IoT & Industrial background:** Built engineering workflows and protocol-level integrations (BACnet, Modbus, MQTT, DLMS, NB-IoT) across 20+ BMS and Smart Metering projects.
 - **AI-Assisted Engineering:** Actively integrating LLM capabilities (Anthropic Claude API, MCP, subagent workflows) into production dev pipelines.
